@@ -1,1 +1,1 @@
-Welcome to the §6Sokit Network!
+<h1>Welcome to the Sokit Network!</h1>
