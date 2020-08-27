@@ -1,14 +1,14 @@
 <html>
 	<head>
-		<title>Sokit Network</title>
+		<title>Sokit Network
 		
 	</head>
 	
 	<body>		
-		<h1>Sokit Network</h1>
+		<h1>Sokit Network
 		<hr>
-		<h3>Welcome to the <br> Sokit Network!</h2>
-		<h3>Server IP: play.sokit.tk</h3>
+		<h3>Welcome to the <br> Sokit Network!
+		<h3>Server IP: play.sokit.tk
 	</body>
 
 </html>
