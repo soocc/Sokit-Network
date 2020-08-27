@@ -1,3 +1,2 @@
-<h1>Welcome to the Sokit Network!<h1>
-  <hr>
-  <h3>Server IP: play.sokit.tk<h3>
+<h1>Welcome to the Sokit Network!
+<h3>Server IP: play.sokit.tk
