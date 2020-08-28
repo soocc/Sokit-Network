@@ -3,5 +3,5 @@
 		<h4>Rules:</h4><br><p>be ethical ok</p>
 	<h5>rules.sokit.tk</h1>
 	<br>
-	<h5>Server Host: Aternos.org
+	<h5>Server Host: Aternos.org<h5>
 	
