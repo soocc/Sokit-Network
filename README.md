@@ -7,5 +7,5 @@
 	<hr>
 	<h4>Rules:</h4>
 	be ethical ok
-	<h1>rules.sokit.tk</h1>
+	<h5>rules.sokit.tk</h1>
 	
