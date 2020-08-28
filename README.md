@@ -1,3 +1,6 @@
+<header>
+	<h1>Rules<h1>
+</header>
 <h2>Welcome to the Sokit Network!<br><h3>Server IP: play.sokit.tk</h3>
 	<hr>
 		<h4>Rules:</h4><br><p>be ethical ok</p>
