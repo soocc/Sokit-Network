@@ -4,6 +4,5 @@
 <hr>
 <h4>Rules:</h4>
   <p>Be ethical ok<p>
-  <p>Rules Page: <button type="button">Rules!</button>
 <hr>
 
